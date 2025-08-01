@@ -1,0 +1,26 @@
+# Archivos de entorno y credenciales
+.env
+*.log
+gastos_whatsapp.log
+
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Base de datos
+db.sqlite3
+*.sqlite3
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
